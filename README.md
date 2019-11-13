@@ -1,4 +1,4 @@
-![SF Mono Powerline](Terminal.png)
+![SF Mono Powerline](Prompt.png)
 
 ### Apple's gorgeous SF Mono patched with the [Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher) for Powerline support.
 
