@@ -1,7 +1,9 @@
 ![SF Mono Powerline](Prompt.png)
 
-### Apple's gorgeous SF Mono patched with the [Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher) for Powerline support.
+### Apple's gorgeous SF Mono font patched with [the Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher) for Powerline support.
 
-Use with an enhanced shell prompt such as [Shellder](https://github.com/simnalamburt/shellder) (shown above) or [Starship](https://starship.rs).
+Powerline glyphs allow for pretty and practical statuslines, as seen in [the original vim plugin](https://github.com/powerline/powerline) or in enhanced shell prompts like [Shellder](https://github.com/simnalamburt/shellder) (shown above) or [Starship](https://starship.rs).
 
-*For personal use only.*
+Works on macOS, Linux and Windows.
+
+For personal use only.
