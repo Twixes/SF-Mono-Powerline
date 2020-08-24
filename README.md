@@ -4,6 +4,6 @@
 
 Powerline glyphs allow for pretty and practical statuslines, as seen in [the original vim plugin](https://github.com/powerline/powerline) or in enhanced shell prompts like [Shellder](https://github.com/simnalamburt/shellder) (shown above) or [Starship](https://starship.rs).
 
-Works on macOS, Linux and Windows.
+Supported for macOS, Linux and Windows.
 
 For personal use only.
