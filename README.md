@@ -10,7 +10,7 @@ For personal use only.
 
 #### Installation
 
-Get it with Homebrew:
+Get it with Homebrew on macOS:
 
 ```bash
 brew install --cask font-sf-mono-for-powerline
